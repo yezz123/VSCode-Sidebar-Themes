@@ -3,7 +3,7 @@
 - VSCode sidebar themes Repository where you can copy & share your Sidebar Themes.
 - You can customize your active Visual Studio Code color theme with the `Theme` user setting.
 
-#### An index for VSCode-Sidebar-Themes Themes
+### An index for VSCode-Sidebar-Themes
 
 > Contributing
 
