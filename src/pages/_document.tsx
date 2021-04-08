@@ -39,8 +39,8 @@ export default class MyDocument extends Document {
           <link rel={"icon"} href="https://static.linear.app/client/favicon.5430d743.ico" />
           <meta name={"theme-color"} content={"#5E6AD2"} />
           <meta property={"og:title"} content={"VsCode-SideBar-Themes  🖌️"} />
-          <meta property={"og:description"} content={"Find and share great UI themes for VSCode-SideBar with VSCode-SideBar.style "} />
-          <meta name="description" content={"Find and share great UI themes for Linear with linear.style"} />
+          <meta property={"og:description"} content={"Find and share great UI themes for VSCode-SideBar with VSCode-SideBar-Themes "} />
+          <meta name="description" content={"Find and share great UI themes for VSCode-SideBar with VsCode-SideBar-Themes"} />
         </Head>
         <body>
           <Main />
