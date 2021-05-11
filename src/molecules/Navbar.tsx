@@ -4,7 +4,7 @@ import { Code, DocumentAdd } from "../components/icons";
 export function Navbar() {
   return (
     <StyledNavbar>
-      <a href="https://github.com/yezz123/VSCode-Sidebar-Themes/blob/main/README.md">
+      <a href="https://github.com/yezz123/VSCode-Sidebar-Themes/blob/main/docs/contributing.md">
         <DocumentAdd /> Submit
       </a>
       <a href="https://github.com/yezz123">
