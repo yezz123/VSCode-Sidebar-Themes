@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "@types/node": "^14.14.10",
-    "@types/react": "^17.0.0",
+    "@types/react": "^17.0.16",
     "@types/styled-components": "^5.1.4",
     "@vercel/node": "^1.8.5",
     "babel-plugin-styled-components": "^1.12.0",
