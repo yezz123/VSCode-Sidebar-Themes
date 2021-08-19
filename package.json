@@ -16,8 +16,8 @@
     "use-system-theme": "^0.1.1"
   },
   "devDependencies": {
+    "@types/react": "^17.0.19",
     "@types/node": "^16.6.2",
-    "@types/react": "^17.0.18",
     "@types/styled-components": "^5.1.12",
     "@vercel/node": "^1.12.1",
     "babel-plugin-styled-components": "^1.12.0",
