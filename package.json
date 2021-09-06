@@ -16,7 +16,7 @@
     "use-system-theme": "^0.1.1"
   },
   "devDependencies": {
-    "@types/react": "^17.0.19",
+    "@types/react": "^17.0.20",
     "@types/node": "^16.7.10",
     "@types/styled-components": "^5.1.13",
     "@vercel/node": "^1.12.1",
