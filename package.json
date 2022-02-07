@@ -18,7 +18,7 @@
   "devDependencies": {
     "@types/node": "^17.0.0",
     "@types/react": "^17.0.37",
-    "@types/styled-components": "^5.1.15",
+    "@types/styled-components": "^5.1.22",
     "@vercel/node": "^1.12.1",
     "prettier": "^2.5.1",
     "babel-plugin-styled-components": "^2.0.2",
